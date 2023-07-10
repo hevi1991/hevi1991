@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @hevi1991
+- 👋 Hi, I’m @hevi1991 from China, Living in ShenZhen.
 - 👀 I’m interested in software
-- 🌱 I’m currently learning Java & frontend relative stack.
-- 💞️ I’m looking to collaborate on money way
+- 🌱 I’m currently learning JavaScript or TypeScript relative stack.
 - 📫 How to reach me, email he.wei@email.cn
-- Wubba lubba dub dub
 
 <!---
 hevi1991/hevi1991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
