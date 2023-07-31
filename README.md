@@ -3,7 +3,7 @@
 - 👋 Hi, I'm @hevi1991 from China, living in Shenzhen.
 - 👀 I'm interested in software.
 - 🌱 I'm currently learning the JavaScript and TypeScript stack.
-- 📫 How to reach me: email me at he.wei@email.com.
+- 📫 Email me at [he.wei@email.cn](mailto://he.wei@email.cn).
 
 <!---
 hevi1991/hevi1991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
