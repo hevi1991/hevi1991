@@ -1,8 +1,8 @@
 [![hevi1991's GitHub stats](https://github-readme-stats.vercel.app/api?username=hevi1991)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I'm @hevi1991 from China, living in Shenzhen.
-- 👀 I'm interested in software.
-- 🌱 I'm currently learning the JavaScript and TypeScript stack.
+- 👀 I'm interested in badminton and fishing.
+- 🌱 I'm currently learning Python.
 - 📫 Email me at [he.wei@email.cn](mailto://he.wei@email.cn).
 
 <!---
